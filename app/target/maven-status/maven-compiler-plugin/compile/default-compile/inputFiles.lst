@@ -1,0 +1,4 @@
+/app/src/main/java/com/eleoterio/softplan/domain/Usuario.java
+/app/src/main/java/com/eleoterio/softplan/resources/UsuarioResource.java
+/app/src/main/java/com/eleoterio/softplan/resources/SourceResource.java
+/app/src/main/java/com/eleoterio/softplan/SoftplanApplication.java
